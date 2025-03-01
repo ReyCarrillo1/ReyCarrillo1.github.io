@@ -137,6 +137,8 @@ $(document).ready(function() {
         <button class="eliminar"
         data-id="${producto.id}">Eliminar</button>
         </li>
+        <button class="comprar"
+        data-id="${producto.id}">Comprar</button>
         `);
     });
     
