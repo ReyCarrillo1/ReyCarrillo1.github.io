@@ -45,7 +45,7 @@ $(document).ready(function() {
     {
         id: 8,
         nombre: "Recarga mensual",
-        precio: 60,
+        precio: 237,
         imagen: "MEDIA/recargasFREE/MENSUAL-$249.00.png"
     },
     ];
