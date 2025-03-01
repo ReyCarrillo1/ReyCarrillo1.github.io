@@ -1,0 +1,225 @@
+body{
+    background-image: url("MEDIA/archivos/PORTAL-CIBER.png");
+    background-size: cover;
+    padding-top: 150px; /* Para evitar que el header fijo cubra el contenido */
+    overflow-y: auto;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: linear-gradient(30deg, red, blue);
+    display: flex;
+    padding: 10px;
+    z-index: 999;
+}
+nav {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 100px;
+    left: 0;
+    font-size: 15px;
+    background: #333;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    background: linear-gradient(30deg,black, white, black);
+    z-index: 1000;
+}
+footer{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    height: 45px;
+    font-size: 40px;
+    padding: 1rem;
+    font-style: oblique;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background:linear-gradient(blue, grey);
+    z-index: 900;
+}
+.img{
+    width: 80%;
+}
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+    }
+ }
+
+.menu {
+    display: flex;
+    gap: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    transition: background 0.3s;
+}
+
+.menu a:hover {
+    background: #555;
+    border-radius: 5px;
+}
+
+.presentacion{
+    font-size: 35px;
+    right: 40%;
+    left: 50%;
+
+}
+.ubicacion{
+    text-align: center;
+}
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.producto {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.carrito {
+    border: 1px solid #343a40;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    height: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.carrito-lista li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.carrito-lista li button.eliminar {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
+
+.carrito-total {
+    text-align: right;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.auth-buttons {
+    margin-left: auto;
+}
+.auth-buttons a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    transition: background 0.3s;
+}
+
+.auth-buttons a:hover {
+    background: #555;
+    border-radius: 5px;
+}
+
+  .container {
+    background-color: #999;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-control {
+    border-radius: 4px;
+  }
+article{
+    /*esto le da color, tamaño y pocicion al articulo, que es donde generalmente 
+    van los productos y lo que se quiere mostrar*/
+    background-image: url(archivos/logo);
+    position: relative;
+    top: 15px;
+    left: 10%;
+    right: 10%;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.services {
+    margin-top: 4px;
+    padding: 20px;
+    right: 30%;
+    width: 65%;
+    background: #ccc;
+}
+.service {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    font-family: 'Times New Roman', Times, serif;
+    overflow-y: auto;
+}
+@media screen and (max-width: 768px) {
+    article, aside {
+        position: relative;
+        width: 100%;
+        top: auto;
+        left: 1px;
+        text-align: center;
+    }
+}
+mark{
+    
+    background: linear-gradient(30deg, black, white, black);
+    color: red;
+}
+.contenedor {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.video video {
+    width: 400px;
+    height: 600px;
+}
+
+.bienvenida {
+    font-style: italic;
+    font-size: 40px;
+    max-width: 600px;
+    background: #999;
+}
