@@ -2,9 +2,7 @@ body{
     background-image: url("MEDIA/archivos/PORTAL-CIBER.png");
     background-size: cover;
     padding-top: 150px;
-    overflow-y: auto;
 }
-
 header {
     width: 100%;
     height: 100px;
@@ -14,13 +12,6 @@ header {
     background: linear-gradient(30deg, red, blue);
     display: flex;
     padding: 10px;
-}
-article{
-    background-image: url(archivos/logo);
-    position: relative;
-    top: 1px;
-    width: 100%;
-    height: 750px;
 }
 nav {
     width: 100%;
@@ -39,6 +30,7 @@ footer{
     width: 100%;
     margin: 0 auto;
     overflow: hidden;
+    
     height: 45px;
     font-size: 40px;
     padding: 1rem;
@@ -82,7 +74,79 @@ footer{
     font-size: 35px;
     right: 40%;
     left: 50%;
+
 }
+.ubicacion{
+    text-align: center;
+}
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.producto {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.carrito {
+    border: 1px solid #343a40;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    height: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.carrito-lista li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.carrito-lista li button.eliminar {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
+
+.carrito-total {
+    text-align: right;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.auth-buttons {
+    margin-left: auto;
+}
+.auth-buttons a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    transition: background 0.3s;
+}
+
+.auth-buttons a:hover {
+    background: #555;
+    border-radius: 5px;
+}
+
   .container {
     background-color: #999;
     padding: 2rem;
@@ -98,30 +162,7 @@ footer{
     border-radius: 4px;
   }
   .libro{
-    top: 40px;
-    height: 97%;
+    top: 0;
+    height: 90%;
     width: 100%;
-    position: relative;
   }
-  @media (max-width: 768px) {
-    .libro {
-        flex-direction: column;
-        height: 90%;
-        padding: 10px;
-    }
- }
- .auth-buttons {
-    margin-left: auto;
-}
-.auth-buttons a {
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-    padding: 10px 15px;
-    transition: background 0.3s;
-}
-
-.auth-buttons a:hover {
-    background: #555;
-    border-radius: 5px;
-}
