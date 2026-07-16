@@ -130,13 +130,13 @@ $(document).ready(function() {
     id: 1,
     nombre: "Avatar 1",
     año: 10,
-    imagen: "MEDIA/PELIS/AVATAR.JPG"
+    imagen: "MEDIA/PELIS/AVATAR.jpg"
     },
     {
     id: 5,
     nombre: "Avatar 2",
     año: 10,
-    imagen: "MEDIA/PELIS/AVATAR 2.PNG"
+    imagen: "MEDIA/PELIS/AVATAR 2.png"
     },
     {
     id: 3,
