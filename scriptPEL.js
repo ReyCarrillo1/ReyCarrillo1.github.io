@@ -129,19 +129,19 @@ $(document).ready(function() {
     {
     id: 1,
     nombre: "Avatar 1",
-    año: 10,
+    año: 2009,
     imagen: "MEDIA/PELIS/AVATAR.jpg"
     },
     {
     id: 5,
     nombre: "Avatar 2",
-    año: 10,
+    año: 2022,
     imagen: "MEDIA/PELIS/AVATAR 2.png"
     },
     {
     id: 3,
     nombre: "AVATAR 3",
-    año: 2010,
+    año: 2025,
     imagen: "MEDIA/PELIS/AVATAR 3.jpg"
     },
     {
