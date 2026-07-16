@@ -20,9 +20,111 @@ $(document).ready(function() {
     },
     {
     id: 24,
-    nombre: "actividad paranormal 01",
-    año: 2007,
-    imagen: "MEDIA/PELIS/ACTIVIDAD1.jpg"
+    nombre: "actividad paranormal 03",
+    año: 2011,
+    imagen: "MEDIA/PELIS/ACTIVIDAD3.jpg"
+    },
+    {
+    id: 25,
+    nombre: "actividad paranormal 04",
+    año: 2012,
+    imagen: "MEDIA/PELIS/ACTIVIDAD4.jpg"
+    },
+    {
+    id: 26,
+    nombre: "actividad paranormal 05 Los Marcados",
+    año: 2015,
+    imagen: "MEDIA/PELIS/ACTIVIDAD5.jpg"
+    },
+    {
+    id: 27,
+    nombre: "actividad paranormal 06 Dimension Fantasma",
+    año: 2015,
+    imagen: "MEDIA/PELIS/ACTIVIDAD6.jpg"
+    },
+    {
+    id: 28,
+    nombre: "actividad paranormal 07 Vinculos Familiares",
+    año: 2021,
+    imagen: "MEDIA/PELIS/ACTIVIDAD7.jpg"
+    },
+    {
+    id: 29,
+    nombre: "After: aquí empieza todo",
+    año: 2019,
+    imagen: "MEDIA/PELIS/after1.jpg"
+    },
+    {
+    id: 33,
+    nombre: "al filo de la oscuridad",
+    año: 2010,
+    imagen: "MEDIA/PELIS/AlFiloOsc.jpg"
+    },
+    {
+    id: 34,
+    nombre: "Al filo del mañana",
+    año: 2014,
+    imagen: "MEDIA/PELIS/AlFiloMañ.jpg"
+    },
+    {
+    id: 35,
+    nombre: "Alicia a traves del espejo",
+    año: 2016,
+    imagen: "MEDIA/PELIS/aliciaEspejo.png"
+    },
+    {
+    id: 36,
+    nombre: "Alicia En El Pais De Las Maravillas",
+    año: 2021,
+    imagen: "MEDIA/PELIS/ilusion3.jpg"
+    },
+    {
+    id: 37,
+    nombre: "actividad paranormal 05 Los Marcados",
+    año: 2015,
+    imagen: "MEDIA/PELIS/ACTIVIDAD5.jpg"
+    },
+    {
+    id: 38,
+    nombre: "actividad paranormal 06 Dimension Fantasma",
+    año: 2015,
+    imagen: "MEDIA/PELIS/ACTIVIDAD6.jpg"
+    },
+    {
+    id: 39,
+    nombre: "actividad paranormal 07 Vinculos Familiares",
+    año: 2021,
+    imagen: "MEDIA/PELIS/ACTIVIDAD7.jpg"
+    },
+    {
+    id: 40,
+    nombre: "After: aquí empieza todo",
+    año: 2019,
+    imagen: "MEDIA/PELIS/after1.jpg"
+    },
+    {
+    id: 41,
+    nombre: "al filo de la oscuridad",
+    año: 2010,
+    imagen: "MEDIA/PELIS/AlFiloOsc.jpg"
+    },
+    {
+    id: 42,
+    nombre: "Al filo del mañana",
+    año: 2014,
+    imagen: "MEDIA/PELIS/AlFiloMañ.jpg"
+    },
+    {
+    id: 43,
+    nombre: "Alicia a traves del espejo",
+    año: 2016,
+    imagen: "MEDIA/PELIS/aliciaEspejo.png"
+    },
+    {
+    id: 44,
+    nombre: "Los Ilusionistas 3",
+    año: 2021,
+    imagen: "MEDIA/PELIS/ilusion3.jpg"
     },
     {
     id: 1,
@@ -143,6 +245,24 @@ $(document).ready(function() {
         nombre: "memoria MICRO SD 64GB",
         precio: 100,
         imagen: "MEDIA/PRODUCTOS/MICRO-SD-64GB.png"
+    },
+    {
+    id: 30,
+    nombre: "Los Ilusionistas",
+    año: 2013,
+    imagen: "MEDIA/PELIS/ilusion1.jpg"
+    },
+    {
+    id: 31,
+    nombre: "Los Ilusionistas 2",
+    año: 2016,
+    imagen: "MEDIA/PELIS/ilusion2.jpg"
+    },
+    {
+    id: 32,
+    nombre: "Los Ilusionistas 3",
+    año: 2021,
+    imagen: "MEDIA/PELIS/ilusion3.jpg"
     },
     ];
 
