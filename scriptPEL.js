@@ -5,12 +5,14 @@ $(document).ready(function() {
     nombre: "actividad paranormal 0 el origen",
     año: 2010,
     imagen: "https://www.bfdistribution.cl/wp-content/uploads/2018/05/afiche_actividadparanormalelorigen_ok.jpg",
+    trailer: "https://youtu.be/y3pYIJytNEg?si=w9OPGq92PUhPBUG3"
     },
     {
     id: 22,
     nombre: "actividad paranormal 01",
     año: 2007,
-    imagen: "https://m.media-amazon.com/images/S/pv-target-images/c7c564d8921a0e28119a61ad93b52f7670c3b793de0be0b8e828a657aa0602b8.jpg"
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/c7c564d8921a0e28119a61ad93b52f7670c3b793de0be0b8e828a657aa0602b8.jpg",
+    trailer: "https://www.youtube.com/watch?v=gbYt5U3zL-M"
     },
     {
     id: 23,
@@ -704,198 +706,548 @@ $(document).ready(function() {
 },
 {
     id: 118,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL CONTADOR",
+    año: 2016,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/aef518788c8bae890ae30e320498a99336972901be0e698ada310c831cf5f992.jpg"
 },
 {
     id: 119,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL CONTADOR 2",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 120,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL DURO",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BODVkYjlkM2UtNWVlMS00N2U1LTgxOTYtODlmNmE1YTgzMjczXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 121,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL ESPANTA TIBURONES",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/ad1aaf1372ae00240624091d77d19f979b3c203caefb3e56d89c28b85aef1a6d.jpg"
 },
 {
     id: 122,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Expreso Del Miedo",
+    año: 2013,
+    imagen: "https://m.media-amazon.com/images/I/91H3DMJfBnL._AC_UF894,1000_QL80_.jpg"
 },
 {
     id: 123,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL EXPRESO POLAR",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNmE2ODgzOTUtNmY1NS00ZTc3LThjZjQtN2VjYjdlN2RlMmU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 124,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL EXTRANO MUNDO DE JACK",
+    año: 1993,
+    imagen: "https://m.media-amazon.com/images/M/MV5BN2M4YTBhODQtNjU1Zi00MDcwLThkODgtYmY1ZWUxOTBiMGZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 125,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL GRINCH",
+    año: 2000,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMDJiMjFhN2YtM2ZmZi00MDMwLTkzNjQtYjFlYmExNGEzMmIyXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 126,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "GRINCH",
+    año: 2018,
+    imagen: "https://m.media-amazon.com/images/I/811QWEMy64L._AC_UF894,1000_QL80_.jpg"
 },
 {
     id: 127,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Increíble Castillo Vagabundo",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/I/71PoeocDlkL._AC_UF894,1000_QL80_.jpg"
 },
 {
     id: 128,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Joven Manos De Tijera",
+    año: 1990,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTkzMjliNjgtNGE0MC00MTM4LWI3ZWQtZTI4OWEwNDQ5MTI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 129,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Justiciero Capítulo Final",
+    año: 2023,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMzMyY2ZkMTMtNjU0Ni00OWU4LThkODEtZGU1MDFjNTU0YzcyXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 130,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El libro de la vida",
+    año: 2014,
+    imagen: "https://m.media-amazon.com/images/M/MV5BODM1OTRjYjktZjU5Zi00M2Y2LTgxZTctODEwMzAyZDdmNTBjXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 131,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL MENU",
+    año: 2022,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8yTNia08Ge5yN3klpj8i4dY_Su_kQv19Kpgj5YLmqc4Rnq3Bq98WeDU&s=10"
 },
 {
     id: 132,
-    nombre: "",
+    nombre: "El mesero",
     año: 2021,
-    imagen: ""
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/c3380ba5781e3075636304018b9cc524860c6d9d67bfd38bb6e88664dde276bd.jpg"
 },
 {
     id: 133,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Mono",
+    año: 2025,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONiaEU6Ri_nDHhb4ee-fBvqTWEilmypElsoKI2wIfbzP9avmAmyLEIMhH&s=10"
 },
 {
     id: 134,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL NIÑO Y LA BESTIA",
+    año: 2015,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/cb71bf950ce8f2a1f571e02bcbf83f619f2e20186a5508591c916a9307be10f0.jpg"
 },
 {
     id: 135,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL PLANETA DEL TESORO",
+    año: 2002,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQza45fyNiDrivMF2bkShkczGLIPFq3jVrcWHGjayztwXYBKXEaHPUtaHiH&s=10"
 },
 {
     id: 136,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "el Principe de egipto",
+    año: 1998,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/d08a47b3b6a35303e00d86c85e4368f8c9a3d4df19d8c81379e082bbfad8484e.jpg"
 },
 {
     id: 137,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El progreso del peregrino",
+    año: 2019,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuK1i3C9PaPShS56XDuiEYY4DFYkemt8PY97gnO3whEh3B1up_ClppJ6YU&s=10"
 },
 {
     id: 138,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Rey Arturo La Leyenda de la Espada",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/6879a12b8d910e32186b3ca136f3f5da77668d03c6cdac926a3c872b9bbc7cf1.jpg"
 },
 {
     id: 139,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Rey de Reyes",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/523fc6facda72af9e4a8f3693d259f31450a43b834bf41f95ae82a7102ad5dec.png"
 },
 {
     id: 140,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "el rey leon 1",
+    año: 1994,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTk0YjM0YmMtZTNiOC00ZjU5LWEzNmUtNTRiYzAxMTg0MzVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 141,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: " el rey leon 2",
+    año: 1998,
+    imagen: "https://es.web.img2.acsta.net/pictures/15/06/11/11/59/479737.jpg"
 },
 {
     id: 142,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "el rey leon 3",
+    año: 2004,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5lV1vjMm3ew6n6ggJSboKaTuo0t7Ny0FOoCp4zPlz8quI6cGNdQ-8PCN1&s=10"
 },
 {
     id: 143,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "el rey leon LIVE ACCION",
+    año: 2019,
+    imagen: "https://es.web.img3.acsta.net/pictures/19/07/09/11/22/4517830.jpg"
 },
 {
     id: 144,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El salario del miedo",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BM2RlMmNlZmQtMWU0NC00ZTZhLTk4MDMtZGI3ZTIzMGE3OGI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 145,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Show de Truman",
+    año: 1998,
+    imagen: "https://m.media-amazon.com/images/I/71zEnyA+49L._AC_UF894,1000_QL80_.jpg"
 },
 {
     id: 146,
-    nombre: "",
+    nombre: "El Telefono Negro",
     año: 2021,
-    imagen: ""
+    imagen: "https://m.media-amazon.com/images/M/MV5BYmEwODM0N2QtNzA2MC00NjIyLTg1NTYtZTM1MTMzYTA2MjJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 147,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Telefono Negro 2",
+    año: 2025,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIBxSIsdLshJSs5vGbJHMJu9t6WLTikVkp6dWenkVMDHaNhRSWt97qRc&s=10"
 },
 {
     id: 148,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "el ultimo regalo",
+    año: 2006,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZTY1YmEwMWEtODEyMi00ZDNmLTk2ZmEtODU4OTllNzk4N2FjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 149,
+    nombre: "el unico sobreviviente",
+    año: 2013,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTI2OGVhNWEtYWYxZS00YTgyLWIxNmUtNWRjMjc1NzVmNmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    id: 150,
     nombre: "",
     año: 2021,
-    imagen: ""
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 151,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 152,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 153,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 154,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 155,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 156,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 157,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 158,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 159,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 160,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 161,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 162,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 163,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 164,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 165,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 166,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 167,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 168,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 169,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 170,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 171,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 172,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 173,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 174,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 175,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 176,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 177,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 178,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 179,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 180,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 181,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 182,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 183,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 184,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 185,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 186,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 187,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 188,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 189,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 190,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 191,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 192,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 193,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 194,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 195,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 196,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 197,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 198,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 199,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
 },
     ];
-     function mostrarPeliculas(lista){
+    function mostrarPeliculas(lista){
 
         $(".productos").empty();
     
@@ -903,9 +1255,18 @@ $(document).ready(function() {
     
             $(".productos").append(`
                 <div class="producto">
-                    <img src="${pelicula.imagen}">
-                    <h2>${pelicula.nombre}</h2>
+    
+                    <img src="${pelicula.imagen}" alt="${pelicula.nombre}">
+    
+                    <h3>${pelicula.nombre}</h3>
+    
                     <h5>AÑO: ${pelicula.año}</h5>
+    
+                    <button class="verTrailer"
+                            data-trailer="${pelicula.trailer || ''}">
+                        🎬 Ver tráiler
+                    </button>
+    
                 </div>
             `);
     
@@ -925,4 +1286,15 @@ $(document).ready(function() {
         mostrarPeliculas(resultado);
     
     });
+    $(document).on("click", ".verTrailer", function(){
+
+    const trailer = $(this).data("trailer");
+
+    if(trailer){
+        window.open(trailer, "_blank");
+    }else{
+        alert("Esta película aún no tiene tráiler.");
+    }
+
+});
  });
