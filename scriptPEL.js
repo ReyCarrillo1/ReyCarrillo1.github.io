@@ -296,135 +296,135 @@ $(document).ready(function() {
     },
     {
     id: 50,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Blanca Nieves",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BODhhMjU4ZGItZjEzZC00MzM1LWEyMTEtMDhmOTNiN2Y3MDg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 51,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Blue Beetle",
+    año: 2023,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMDlkMmM1YjItOGI5Ny00MDVmLTg2ZjYtMmVlZmQxZTIyZWYzXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 52,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Bob Esponja En Busca De Los Pantalones Cuadrados",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZmE3NTIyOTgtMTI4Ny00N2Q1LTlkNTctNjgwNmVjYmUyYmIxXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 53,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Brave Citizen",
+    año: 2023,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Rze3JI0sve4QRySF9D0QoR4fKbyhnc5LZbEocVZnNq90t8_FEasZgLo-&s=10"
 },
 {
     id: 54,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Brigada 49",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/f990694b537312cdb26478dcc24abf6d887be75e439ec449d9a79150f43c0e8f.jpg"
 },
 {
     id: 55,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Burbujas",
+    año: 2022,
+    imagen: "https://pics.filmaffinity.com/bubble-245164454-large.jpg"
 },
 {
     id: 56,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "buscando a nemo",
+    año: 2003,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/93070eaf535856645544357f3ad17c626945ec8c0f8c1b707c8fa405728447a2.jpg"
 },
 {
     id: 57,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Buscando A Dory",
+    año: 2016,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/f376d089a91798287747dc6c76644f7b76e9738ce177777db52c1f4167582b23.jpg"
 },
 {
     id: 58,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "BUSQUEDA IMPLACABLE",
+    año: 2008,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNzgwN2YzNjEtZjA2ZC00YTE1LWI4ZjEtZmFlNGU5MmIxNzFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 59,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Camina O Muere",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 60,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Capitan America Un Nuevo Mundo",
+    año: 2025,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRxYg19Dl5p4LB6FWDCd4yHC_P4C5nfsgL-qgO6oMIQ&s"
 },
 {
     id: 61,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Cars 1",
+    año: 2006,
+    imagen: "https://es.web.img3.acsta.net/c_310_420/pictures/14/05/28/11/24/435900.jpg"
 },
 {
     id: 62,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Cars 2",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 63,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Cars 3",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 64,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Chip y Dale Al Rescate",
+    año: 2022,
+    imagen: "https://pics.filmaffinity.com/chip_n_dale_rescue_rangers-335785940-large.jpg"
 },
 {
     id: 65,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "COCO",
+    año: 2017,
+    imagen: "https://pics.filmaffinity.com/Coco-155051069-large.jpg"
 },
 {
     id: 66,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Codigo Traje Rojo",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYzgzNGJiMDItZmEwNS00ZjY2LTgzMWMtMTRlMjhhZjk3YThmXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 67,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Como Entrenar A Tu Dragon 1",
+    año: 2010,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTQ2M2I3ZTktNGE5NS00YmE3LTk1NDEtNzQzZTY3NTlmNTY3XkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 68,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Como Entrenar A Tu Dragon 2",
+    año: 2014,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpiXBTWY4vfAMPP4mExmHmAYP7pPpX-Ew8NEfd9ZlBSj5dW2926CldAY&s=10"
 },
 {
     id: 69,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Como Entrenar A Tu Dragon 3",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/daf0864124d5b8b8bf1881a9b0b9e577b3ea10d8af5ec1ffb8e46c5a290d745c.jpg"
 },
 {
     id: 70,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Como Entrenar A Tu Dragon 1 LIVE ACCION",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/6254d757cc0c61cbe9dbe81e8e367101cd5c08bc680d6c87f1f448ed1004ba52.jpg"
 },
 {
     id: 71,
-    nombre: "",
+    nombre: "Como Por Casualidad",
     año: 2021,
-    imagen: ""
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/267116df6b1a634af12c4741c9aaa293414c73ecc6819d4105fcbfc5537b7b68.jpg"
 },
 {
     id: 72,
