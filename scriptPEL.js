@@ -206,94 +206,394 @@ $(document).ready(function() {
     },
     {
         id: 9,
-        nombre: "audifonos alambricos AK6 color rojo",
-        año: 60,
-        imagen: "MEDIA/PRODUCTOS/AK6-ROJO.jpg"
+        nombre: "Back to Black ",
+        año: 2024,
+        imagen: "https://m.media-amazon.com/images/M/MV5BOWMyZTJmMTUtNDNiYy00ZGE2LWIzZjAtZmQyZWQ0NjdiMjI5XkEyXkFqcGc@._V1_.jpg"
     },
     {
         id: 10,
-        nombre: "audifonos tipo pildora color negro",
-        año: 120,
-        imagen: "MEDIA/PRODUCTOS/PILDORA-NEGRO_resultado.png"
+        nombre: "bad boys 4 hasta la muerte",
+        año: 2024,
+        imagen: "https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
         },
     {
         id: 11,
-        nombre: "audifonos tipo pildira color rosa",
-        año: 120,
-        imagen: "MEDIA/PRODUCTOS/PILDORA-ROSA_resultado.png"
+        nombre: "Bajo el muelle",
+        año: 2023,
+        imagen: "https://m.media-amazon.com/images/S/pv-target-images/72edb09f32b71425aea02f1037e5a0d3fbfd14b8b348368a31fa8b76be2efd5d.jpg"
     },
     {
         id: 12,
-        nombre: "audifonos tipo pildira color verde",
-        precio: 120,
-        imagen: "MEDIA/PRODUCTOS/pildora-verde.jpg"
+        nombre: "Bajo la misma estrella",
+        año: 2014,
+        imagen: "https://pics.filmaffinity.com/Bajo_la_misma_estrella-457483777-large.jpg"
         },
     {
         id: 13,
-        nombre: "Carteles ONE PIECE 42x28.5cm",
-        precio: 180,
-        imagen: "MEDIA/PRODUCTOS/POSTERS-ONE-PIECE.png"
+        nombre: "Ballerina",
+        año: 2016,
+        imagen: "https://m.media-amazon.com/images/M/MV5BMGM4YWQ5YjktNzlhZS00MTlkLTg2MjItNjFiOGVmNDcxODJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         id: 14,
-        nombre: "Audifonos inalambricos T2 color azul",
-        precio: 120,
-        imagen: "MEDIA/PRODUCTOS/T2-AZUL.jpg"
+        nombre: "Barbie En Las 12 Princesas Bailarinas",
+        año: 2006,
+        imagen: "https://m.media-amazon.com/images/S/pv-target-images/e8cdb50d6d43014a2b6d344faa6952f52863251782b59b5734f60e527262157d.jpg"
     },
     {
         id: 15,
-        nombre: "Audifonos inalambricos T2 color negro",
-        precio: 120,
-        imagen: "MEDIA/PRODUCTOS/T2-NEGRO_resultado.png"
+        nombre: "Batman Azteca",
+        año: 2025,
+        imagen: "https://m.media-amazon.com/images/M/MV5BYmMzNWY1NGYtZDI2Mi00MWU2LWI4MGEtMzcyMGNkOWRmZjhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         id: 16,
-        nombre: "Audifonos inalambricos T8 PRO color verde",
-        precio: 135,
-        imagen: "MEDIA/PRODUCTOS/T8-PRO-VERDE_resultado.png"
+        nombre: "Beetlejuice Beetlejuice",
+        año: 2024,
+        imagen: "https://m.media-amazon.com/images/M/MV5BODA1MGZjNjYtZjVjYi00ZGI5LWExMzEtM2Q0M2NiYWE4NmY5XkEyXkFqcGc@._V1_.jpg"
     },
     {
         id: 17,
-        nombre: "audifonos bluetooth 0 delay",
-        precio: 140,
-        imagen: "MEDIA/PRODUCTOS/TWS_resultado.png"
+        nombre: "Bestia",
+        año: 2022,
+        imagen: "https://m.media-amazon.com/images/S/pv-target-images/a1c06b55a293a24983b55308ad49a29929490c81b6864370c52da7bf09b7e68a.jpg"
     },
     {
         id: 18,
-        nombre: "USB figura de zorro 64GB",
-        precio: 120,
-        imagen: "MEDIA/PRODUCTOS/USB-ZORRITO.png"
+        nombre: "Better man",
+        año: 2024,
+        imagen: "https://m.media-amazon.com/images/M/MV5BMTBiZGI4NDItYjM0OC00ODg4LThkOGQtZDEzN2U2MzgxZTk4XkEyXkFqcGc@._V1_.jpg"
     },
     {
         id: 19,
-        nombre: "audifonos bluetooth Y8 color negro",
-        precio: 120,
-        imagen: "MEDIA/PRODUCTOS/Y80-NEGRO_resultado.png"
+        nombre: "Bichos una aventura en miniatura",
+        año: 1998,
+        imagen: "https://m.media-amazon.com/images/M/MV5BMzRmZmZkZjctMmJiOS00MTFiLTg2YmUtY2E3ZjZiZjA2MzA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         id: 20,
-        nombre: "memoria MICRO SD 64GB",
-        precio: 100,
-        imagen: "MEDIA/PRODUCTOS/MICRO-SD-64GB.png"
+        nombre: "Aves De Presa",
+        año: 2020,
+        imagen: "https://m.media-amazon.com/images/S/pv-target-images/f2da438bf0a46c7124c613f90898b0469aaf69615588014231b6ab5ec4196315.jpg"
     },
     {
     id: 30,
-    nombre: "Los Ilusionistas",
-    año: 2013,
-    imagen: "MEDIA/PELIS/ilusion1.jpg"
+    nombre: "Black Adam",
+    año: 2022,
+    imagen: "https://m.media-amazon.com/images/I/91v-MfuWyWL._AC_UF894,1000_QL80_.jpg"
     },
     {
     id: 31,
-    nombre: "Los Ilusionistas 2",
-    año: 2016,
-    imagen: "MEDIA/PELIS/ilusion2.jpg"
+    nombre: "Black and blue",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMmFmZjE5NmUtZGFjYi00Zjc0LWIyYzYtZDhlYzVlZDUxY2JlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
     id: 32,
-    nombre: "Los Ilusionistas 3",
+    nombre: "Black Widow",
     año: 2021,
-    imagen: "MEDIA/PELIS/ilusion3.jpg"
+    imagen: "https://lumiere-a.akamaihd.net/v1/images/blueb_007d_g_spa-ar_70x100_43a5cf52.jpeg"
     },
+    {
+    id: 50,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 51,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 52,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 53,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 54,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 55,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 56,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 57,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 58,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 59,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 60,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 61,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 62,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 63,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 64,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 65,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 66,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 67,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 68,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 69,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 70,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 71,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 72,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 73,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 74,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 75,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 76,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 77,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 78,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 79,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 80,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 81,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 82,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 83,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 84,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 85,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 86,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 87,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 88,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 89,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 90,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 91,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 92,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 93,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 94,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 95,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 96,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 97,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 98,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 99,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
     ];
      function mostrarPeliculas(lista){
 
@@ -303,7 +603,7 @@ $(document).ready(function() {
     
             $(".productos").append(`
                 <div class="producto">
-                    <img height="500" src="${pelicula.imagen}">
+                    <img src="${pelicula.imagen}">
                     <h2>${pelicula.nombre}</h2>
                     <h5>AÑO: ${pelicula.año}</h5>
                 </div>
