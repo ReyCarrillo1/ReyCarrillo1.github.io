@@ -4,7 +4,7 @@ $(document).ready(function() {
     id: 21,
     nombre: "actividad paranormal 0 el origen",
     año: 2010,
-    imagen: "https://static.wikia.nocookie.net/doblaje/images/f/fd/Actividad-paranormal-0.jpg/revision/latest?cb=20250328051139&path-prefix=es",
+    imagen: "https://www.bfdistribution.cl/wp-content/uploads/2018/05/afiche_actividadparanormalelorigen_ok.jpg",
     },
     {
     id: 22,
@@ -196,7 +196,7 @@ $(document).ready(function() {
         id: 7,
         nombre: "avatar 2 el camino del agua",
         año: 2022,
-        imagen: "https://static.wikia.nocookie.net/doblaje/images/e/ed/AVATAR-El_Camino_del_Agua_p%C3%B3ster.jpg/revision/latest?cb=20221102143411&path-prefix=es"
+        imagen: "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_.jpg"
     },
     {
         id: 8,
