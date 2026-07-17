@@ -428,168 +428,468 @@ $(document).ready(function() {
 },
 {
     id: 72,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "como si fuera la primera vez",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/ae4fdf5c052fbf3c7ce49d6cf693381fe861bee1ea3f4ad3a10a2e380c9272b7.jpg"
 },
 {
     id: 73,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Compañera Perfecta",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 74,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Contraataque",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYmExM2ZiOGItMDcxZi00NDc3LTk3MmItNGQyZWNlYzBiOTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 75,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Coraline",
+    año: 2009,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/272cac634d75633052a6e94d1772753a62dabbf340f86201acc0b0b306a4e6ca.jpg"
 },
 {
     id: 76,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "CREPUSCULO 1",
+    año: 2008,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/619aa3dbef63db9021bd82b5e6b902709b75080a7816241156b20eed2efcad06.jpg"
 },
 {
     id: 77,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "CREPUSCULO 2 Luna Nueva",
+    año: 2009,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/cbf37c5102917893071d1661b39f607809d687b90bfd476c4e8a143df954be4d.jpg"
 },
 {
     id: 78,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "CREPUSCULO 3 eclipse",
+    año: 2010,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/621e538ab04734648b4bd1e417ca63a4baa5c98268cacfeec5785ccde216a16d.jpg"
 },
 {
     id: 79,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "CREPUSCULO 4 Amanecer PARTE 1",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/017d32d8df814289ffbf74e07b4a247cfdc71ecd0da44ce02dac84b04574e22d.jpg"
 },
 {
     id: 80,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "CREPUSCULO 5 Amanecer Parte2",
+    año: 2012,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/db04699c978d6cd6e7f3d54e78164ebd2b58a8bb8630fdd9ab52dffcf2319407.jpg"
 },
 {
     id: 81,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "cuando cupido no esta",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYWQ4Y2RkZmQtNjRlYy00OGJlLTgzODMtYjYzZmM2YmM3OTg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 82,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "cuarto de guerra",
+    año: 2015,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/da9aa925dfdc83f3712b51f456a74c1bde3b0424fbfe40b6590fd99c229683d5.jpg"
 },
 {
     id: 83,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Cuentos Que No Son Cuentos",
+    año: 2008,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/9c2a751cf79824d64bf056d10cbc3ad540e34f71e9db43ad6850f6857c139658.jpg"
 },
 {
     id: 84,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "CUPIDO MOTORIZADO",
+    año: 1968,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/f1046d882adfddcfa8b1b3e879f43bdd4a1fa194e5344ea169384eff5ecb61c2.jpg"
 },
 {
     id: 85,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Danza con Lobos",
+    año: 1990,
+    imagen: "https://m.media-amazon.com/images/I/71kiEpiKnsL._AC_UF894,1000_QL80_.jpg"
 },
 {
     id: 86,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "David",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BODczZDkzMDgtYzRjMi00YWNkLWJhNzMtNGNiMzQxNzE1ZDc3XkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 87,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Deadpool & Wolverine",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/dd6fb66997dd4cb5606b587bb255d2cd2cec20ecbd11852a8f6b07a1358d09a1.jpg"
 },
 {
     id: 88,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "DEBIERON IRSE",
+    año: 2020,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv47l3It-dwluWPQz8fT70KElInzq55hfV1LXsjVrl8nCI26ElP1-Iexj-&s=10"
 },
 {
     id: 89,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Depredador",
+    año: 2022,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTc2Y2NmY2MtYWQ2ZS00ZGRjLTk2NTItNzVmNDViOTJhNThhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 90,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Depredador Tierras salvajes",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 91,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Descendientes 1",
+    año: 2015,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMTA5MTE2Mzc5MjReQTJeQWpwZ15BbWU4MDk0Njg2ODUx._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 92,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Descendientes 2",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYWJiNWY2ZjAtYmU3ZS00MjU2LTk3MWMtMmRmM2U2OTdlMmE1XkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 93,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Descendientes 3",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMjM1MTgyNDQyOF5BMl5BanBnXkFtZTgwOTgwMjQ4NzM@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 94,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Descendientes 4 El Ascenso De Red",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/4566a535678635a5b46fa19b0d7d4f30d3eb7f4eb61b9881fdb3f1314e7cfef1.jpg"
 },
 {
     id: 95,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Destino Final 1",
+    año: 2000,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8I5uAXclSSMWmaF9QC2rOQTsRFc7NGrosjtU8vKZhtw&s=10"
 },
 {
     id: 96,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Destino Final 2",
+    año: 2002,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThY5c7JgyOahgGqQl8W4a0Sva309uHOxlNbRCjB2_3zpXCtvWASUgYK6IA&s=10"
 },
 {
     id: 97,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "Destino Final 3",
+    año: 2006,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/d25394e6b36477545038c0e2609ad1db16be5a3f9155c0b8db1089b63abf5f10.jpg"
 },
 {
     id: 98,
+    nombre: "Destino Final 4",
+    año: 2009,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/44e330d3ef22bfa6b8ee2e5e07078cbe3d2fa5d006690e23966c0cbf4e5ed998.jpg"
+},
+{
+    id: 99,
+    nombre: "Destino Final 5",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/24ac12b5746775db5eba627202fe2cb0ed2858f5cf01ce09e3208c46b524bdf7.jpg"
+},
+{
+    id: 100,
+    nombre: "Destino Final 6 Lazos de sangre",
+    año: 2021,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqE-CxqkR-F2J_NTXO7s3_MtMCYdyC3mYh3n1q0VLVQ&s=10"
+},
+{
+    id: 101,
+    nombre: "Dia de muertos",
+    año: 2022,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6UQCU7exC-8Oivmumil9IslBWZ5uizvlX3FQY92ZWiFxvmNB2egUTuhU&s=10"
+},
+{
+    id: 102,
+    nombre: "Diabólica tentación",
+    año: 2009,
+    imagen: "https://m.media-amazon.com/images/I/81J0g5AbvUL._AC_UF894,1000_QL80_.jpg"
+},
+{
+    id: 103,
+    nombre: "Diamante De Sangre",
+    año: 2021,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aKd8qhDSltVwxDlkaWWkV8n6SUn5r3F3wbX5qyATRaKgrS4N2vv6fL4s&s=10"
+},
+{
+    id: 104,
+    nombre: "Diario De Una Pasion",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/M/MV5BM2RiMzcxYmYtNzQ3MC00NTQ4LWE0ZjktNGUwODI1MzhjNDNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    id: 105,
+    nombre: "Django Unchained",
+    año: 2012,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg"
+},
+{
+    id: 106,
+    nombre: "Dracula",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BY2IyZTVkOWMtOTJjZS00NzM2LWFmYTgtM2NlMjhkY2E5NWZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    id: 107,
+    nombre: "Drop Amenaza Anonima",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    id: 108,
     nombre: "",
     año: 2021,
     imagen: ""
 },
 {
-    id: 99,
+    id: 109,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 110,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 111,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 112,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 113,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 114,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 115,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 116,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 117,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 118,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 119,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 120,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 121,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 122,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 123,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 124,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 125,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 126,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 127,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 128,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 129,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 130,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 131,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 132,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 133,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 134,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 135,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 136,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 137,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 138,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 139,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 140,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 141,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 142,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 143,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 144,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 145,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 146,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 147,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 148,
+    nombre: "",
+    año: 2021,
+    imagen: ""
+},
+{
+    id: 149,
     nombre: "",
     año: 2021,
     imagen: ""
