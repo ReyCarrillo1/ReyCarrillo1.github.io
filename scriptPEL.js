@@ -644,63 +644,63 @@ $(document).ready(function() {
 },
 {
     id: 108,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El año de mi graduacion",
+    año: 2022,
+    imagen: "https://image.tmdb.org/t/p/original/7gEHpcvQmXJ143tHUdUfVZDo9ok.jpg"
 },
 {
     id: 109,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "el apocalipsis de san juan",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTk3NGZlYjQtY2U2Ni00ZDk1LWE3MTQtM2ZlNzUzOTM1OTk1XkEyXkFqcGc@._V1_.jpg"
 },
 {
     id: 110,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El bebe de Rosemary",
+    año: 2014,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/519508ee2f67afcf9677c70f4a88d887c72429fb64e204879df765f904d23e6c.jpg"
 },
 {
     id: 111,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El buen amigo gigante",
+    año: 2016,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORWP2W-aQcuQ-EpmahB1IozPDXjjs7ZTOdAghIZMaVE4SWFRupT6ELyVv&s=10"
 },
 {
     id: 112,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL CADAVER DE LA NOVIA",
+    año: 2005,
+    imagen: "https://decine21.com/img/upload/obras/la-novia-cadaver-58/la-novia-cadaver-58-c.jpg"
 },
 {
     id: 113,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "El Chico Y La Garza",
+    año: 2023,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/5a2645512671e87d49e07bbd4f1da06d0d2ae0ab1759714673810abb5b417134.png"
 },
 {
     id: 114,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL CONJURO 1",
+    año: 2013,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYWQyNTQwNTAtZDE2Yy00NjlhLWE4N2YtYjBkYTM4ZmM3ZDk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 115,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL CONJURO 2",
+    año: 2016,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMzM2OTE4ZWUtMzNiNy00MzhmLWE0YmMtZGE3ZTg2ZmUwODUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
     id: 116,
-    nombre: "",
+    nombre: "EL CONJURO 3",
     año: 2021,
-    imagen: ""
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/dfd59666ac852c49e8e810afa5ce1e9e1c9bb359ef09ad0254bf3a096e37c27b.jpg"
 },
 {
     id: 117,
-    nombre: "",
-    año: 2021,
-    imagen: ""
+    nombre: "EL CONJURO 4",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/5a2513e2cb9e247637cf4e01ed62e082951260afbd8dcd8bfd049ea5d1ee6490.jpg"
 },
 {
     id: 118,
