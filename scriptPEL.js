@@ -303,7 +303,7 @@ $(document).ready(function() {
     
             $(".productos").append(`
                 <div class="producto">
-                    <img src="${pelicula.imagen}">
+                    <img height="500" src="${pelicula.imagen}">
                     <h2>${pelicula.nombre}</h2>
                     <h5>AÑO: ${pelicula.año}</h5>
                 </div>
