@@ -351,6 +351,13 @@ $(document).ready(function() {
     imagen: "https://m.media-amazon.com/images/M/MV5BNzgwN2YzNjEtZjA2ZC00YTE1LWI4ZjEtZmFlNGU5MmIxNzFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
 },
 {
+    id: 161,
+    nombre: "cada dia",
+    año: 2018,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3st5hJi7WAq7_fVYDIlZQ7DVnz5ZhibBk0cfENKoGBAfT6M45l2Af1k&s=10",
+    trailer: "https://www.youtube.com/watch?v=IU7AstOtKaI"
+},
+{
     id: 59,
     nombre: "Camina O Muere",
     año: 2025,
@@ -898,262 +905,255 @@ $(document).ready(function() {
 },
 {
     id: 150,
-    nombre: "",
+    nombre: "El Viaje De Chihiro",
     año: 2021,
-    imagen: "",
-    trailer: ""
+    imagen: "https://m.media-amazon.com/images/M/MV5BMWI1OTdjN2EtOGUxYy00ZDBmLWFlNzAtNmRkZjhiMTIzOTNhXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=5Fgq4Osh6XQ"
 },
 {
     id: 151,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "El Zorro y el Sabueso",
+    año: 1981,
+    imagen: "https://m.media-amazon.com/images/I/81XDZabvuFL._AC_UF894,1000_QL80_.jpg",
+    trailer: "https://www.dailymotion.com/video/x88a3b0"
 },
 {
     id: 152,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "El descenso",
+    año: 2001,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=2S0ImYzRxKE"
 },
 {
     id: 153,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Elementos",
+    año: 2023,
+    imagen: "https://pics.filmaffinity.com/Elementos-522221727-large.jpg",
+    trailer: "https://www.youtube.com/watch?v=7KIWqmLsJRM"
 },
 {
     id: 154,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "El unico",
+    año: 2001,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/f834a26f32ce1844130f6fd6948ec111889af3166abc928bbf3cbd5c37361f5e.jpg",
+    trailer: "https://www.youtube.com/watch?v=GSU29boUvKg"
 },
 {
     id: 155,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "En Busca De La Felicidad",
+    año: 2006,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/1f9562c4320675137a0ee2a3f9c72d2381a61b0645281252ac19c884ac3e9a8e.jpg",
+    trailer: "https://www.youtube.com/watch?v=rxtGMH7OrLc"
 },
 {
     id: 156,
-    nombre: "",
+    nombre: "Encanto",
     año: 2021,
-    imagen: "",
-    trailer: ""
+    imagen: "https://i0.wp.com/depauliaonline.com/wp-content/uploads/2021/12/IMG_5812.jpg?fit=728%2C900&ssl=1",
+    trailer: "https://www.youtube.com/watch?v=SuvaNfzF2AI"
 },
 {
     id: 157,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Enemigo Publico",
+    año: 1998,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZTcwMGM5NDUtOGNlZS00NzViLWI1NjUtYmU4MjczMWI0OTZkXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=0L1C6Kqinrg"
 },
 {
     id: 158,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Equipaje de mano",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMDMyZWYwYTEtMmUwNy00NTE4LTkxNmUtY2Y1YzllYTUwYTQ5XkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=9Xtod7Nlsxk"
 },
 {
     id: 159,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "ESO/IT",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=-4q5S5BWH8A"
 },
 {
     id: 160,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
-},
-{
-    id: 161,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "espias con disfras",
+    año: 2019,
+    imagen: "https://es.web.img3.acsta.net/c_310_420/pictures/19/10/28/16/48/0116830.jpg",
+    trailer: "https://www.youtube.com/watch?v=g8_384TLh1U"
 },
 {
     id: 162,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "evolucion",
+    año: 2001,
+    imagen: "https://pics.filmaffinity.com/evolution-621971388-large.jpg",
+    trailer: "https://www.youtube.com/watch?v=vWYNyqqnPfE"
 },
 {
     id: 163,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "F1",
+    año: 2025,
+    imagen: "https://decine21.com/img/upload/obras/largometraje-de-formula-1-48762/largometraje-de-formula-1-48762-c.jpg",
+    trailer: "https://www.youtube.com/watch?v=Zz1wgJS7UeI"
 },
 {
     id: 164,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Familia En Renta",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/4e7a19c51b5bb8d81a83277c94584ad76b87cb8a0199c58026c61d6604624ea6.jpg",
+    trailer: "https://www.youtube.com/watch?v=wE0YeRAJK6w"
 },
 {
     id: 165,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Five Nights At Freddys",
+    año: 2023,
+    imagen: "https://es.web.img3.acsta.net/pictures/23/09/20/15/05/0470801.jpg",
+    trailer: "https://www.youtube.com/watch?v=FRffQncR1HQ"
 },
 {
     id: 166,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Five Nights At Freddys 2",
+    año: 2025,
+    imagen: "https://www.universalpictures.com.mx/tl_files/content/movies/five_nights_2/posters/01.jpg",
+    trailer: "https://www.youtube.com/watch?v=E8M-iJ0p-Xk"
 },
 {
     id: 167,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "FLASH",
+    año: 2023,
+    imagen: "https://pics.filmaffinity.com/Flash-698849219-large.jpg",
+    trailer: "https://www.youtube.com/watch?v=8dFTgXriXWg"
 },
 {
     id: 168,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "FLOW",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=izIuFUnZkjA"
 },
 {
     id: 169,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Frankenstein De Mary Shelley",
+    año: 1994,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRINszds4NxpcOMclmykklEPMnCzPGctrJJROaRiZ3Eo8MJF-kemcuLLEs&s=10",
+    trailer: "https://www.youtube.com/watch?v=bDsuyb_zZio"
 },
 {
     id: 170,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Frankenweenie",
+    año: 2012,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOgMeSDpL4PV8atUG0t-BcXaPrMUO8AebqX5XsYOqj2w&s=10",
+    trailer: "https://www.youtube.com/watch?v=wHi7HRmxqWI"
 },
 {
     id: 171,
-    nombre: "",
+    nombre: "Free Guy",
     año: 2021,
-    imagen: "",
-    trailer: ""
+    imagen: "https://m.media-amazon.com/images/M/MV5BN2I0MGMxYjUtZTZiMS00MzMxLTkzNWYtMDUyZmUwY2ViYTljXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=eOrSeFGLrRU"
 },
 {
     id: 172,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "FROZEN",
+    año: 2013,
+    imagen: "https://m.media-amazon.com/images/I/61yo34xjLHL._AC_UF1000,1000_QL80_.jpg",
+    trailer: "https://www.youtube.com/watch?v=84ieTKsn1Qk"
 },
 {
     id: 173,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "FROZEN 2",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZTE1YjlmZjctNjIwNi00NDQ0LTlmMzgtYWZkY2RkZTMwNTdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=I-oJ5QjrX9M"
 },
 {
     id: 174,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Garfield Fuera De Casa",
+    año: 2024,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapgOumHEkfWCpKSSjL2jdP4b8Qq4FldoqRS5Klo3QiLELeoTbxxpyJNY&s=10",
+    trailer: "https://www.youtube.com/watch?v=GeR3YxTv_zU"
 },
 {
     id: 175,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Gato Con Botas El ultimo Deseo",
+    año: 2022,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/31a37f45dc3b5d2ab74148f6b9342708254f76ab6ff1bc1a4aeffd6f231659b0.jpg",
+    trailer: "https://www.youtube.com/watch?v=7afDrYLajRk"
 },
 {
     id: 176,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Gladiador",
+    año: 2000,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDrXczirbIoXatREHtWwvtep3oSeCc5JyyJE1fncdlc9FKlnDyZ3_lVxa&s=10",
+    trailer: "https://www.youtube.com/watch?v=nx9c0SeGy3k"
 },
 {
     id: 177,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Gladiador 2",
+    año: 2024,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbTzenW_NNZbb5RpXUfPRmGw8Jp9orePgb9IjxS9WItlAvUkA6m4hFCE&s=10",
+    trailer: "https://www.youtube.com/watch?v=qwMbpO20_YY"
 },
 {
     id: 178,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Glass",
+    año: 2019,
+    imagen: "https://es.web.img2.acsta.net/pictures/18/12/03/12/00/1528300.jpg",
+    trailer: "https://www.youtube.com/watch?v=8aLVcGPYoN4"
 },
 {
     id: 179,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "godzilla 2 el rey de los monstruos",
+    año: 2019,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOctdztiOb147IMmhjuksXshXWZxTafKUwuZWVphQzw&s=10",
+    trailer: "https://www.youtube.com/watch?v=KA94TLkE8eY"
 },
 {
     id: 180,
-    nombre: "",
+    nombre: "Godzilla vs Kong",
     año: 2021,
-    imagen: "",
-    trailer: ""
+    imagen: "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=EPdgdn5eOcw"
 },
 {
     id: 181,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Godzilla y Kong el Nuevo Imperio",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=Y5nq2APYURE"
 },
 {
     id: 182,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Good Boy",
+    año: 2025,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvikssy77MKABjiScsviJGI3GrRO91cUPjWbZiPtn_YIQDyRbOmFMJLUW&s=10",
+    trailer: "https://www.youtube.com/watch?v=_QpkrIN7BAs"
 },
 {
     id: 183,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "guardianes de la bahia",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYmFlMzdlZjYtYTAyMi00YzMyLTk4NWYtZmQ1MTYwN2RkNDliXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=cHTugS4aHdY"
 },
 {
     id: 184,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
-},
-{
-    id: 185,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Guardianes De La Galaxia Vol 3",
+    año: 2023,
+    imagen: "https://lumiere-a.akamaihd.net/v1/images/lat_2ae5e247.jpeg",
+    trailer: "https://www.youtube.com/watch?v=nFYA2kdHy0s"
 },
 {
     id: 186,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Guason",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYjliNTJlYWYtYTU2Yy00YzI3LWI3NzgtOTJlMzg3YmQ3ZDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=TobNCFMK_bs"
+},
+{
+    id: 185,
+    nombre: "Guason 2",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/395bae3dfd483139923010e36b7f7c8d9919c154f10172717c59c7bb15f79813.jpg",
+    trailer: "https://www.youtube.com/watch?v=BQGdRG13Zb4"
 },
 {
     id: 187,
