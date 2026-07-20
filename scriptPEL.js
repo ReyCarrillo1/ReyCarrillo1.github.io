@@ -5,14 +5,14 @@ $(document).ready(function() {
     nombre: "actividad paranormal 0 el origen",
     año: 2010,
     imagen: "https://www.bfdistribution.cl/wp-content/uploads/2018/05/afiche_actividadparanormalelorigen_ok.jpg",
-    trailer: "https://youtu.be/y3pYIJytNEg?si=w9OPGq92PUhPBUG3"
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++3 Metros Sobre El Cielo+2010+&type=phone_number&app_absent=0"
     },
     {
     id: 22,
     nombre: "actividad paranormal 01",
     año: 2007,
     imagen: "https://m.media-amazon.com/images/S/pv-target-images/c7c564d8921a0e28119a61ad93b52f7670c3b793de0be0b8e828a657aa0602b8.jpg",
-    trailer: "https://www.youtube.com/watch?v=gbYt5U3zL-M"
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++50+sobras+liberadas+2018+&type=phone_number&app_absent=0"
     },
     {
     id: 23,
@@ -967,13 +967,6 @@ $(document).ready(function() {
     trailer: "https://www.youtube.com/watch?v=9Xtod7Nlsxk"
 },
 {
-    id: 159,
-    nombre: "ESO/IT",
-    año: 2017,
-    imagen: "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_.jpg",
-    trailer: "https://www.youtube.com/watch?v=-4q5S5BWH8A"
-},
-{
     id: 160,
     nombre: "espias con disfras",
     año: 2019,
@@ -1157,90 +1150,804 @@ $(document).ready(function() {
 },
 {
     id: 187,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Habia una vez en Hollywood",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMDQ0OTk0NTQtN2M4Mi00ZjMzLTg3MzctNDM4YzRhMzc3ZjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=J0rFGJV3cYw"
 },
 {
     id: 188,
-    nombre: "",
+    nombre: "Hambre de Poder (El Fundador)",
     año: 2021,
-    imagen: "",
-    trailer: ""
+    imagen: "https://m.media-amazon.com/images/M/MV5BZmJiMTVmNWItN2YxYi00MTZhLTlhZWEtMjgwM2I4OWQxNzlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=Jn0wDroANyY"
 },
 {
     id: 189,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y la piedra filosofal",
+    año: 2001,
+    imagen: "https://play-lh.googleusercontent.com/AX7s9Y3EyhUCRwp_OUymBZhno9CFNl_h9KfLj64bHzQ1wBT-1HbI27ovhkL9RFsq0RRX52vAs7oALlLf8RU",
+    trailer: "https://www.youtube.com/watch?v=tXRXEqd5AhQ"
 },
 {
     id: 190,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y la cámara secreta",
+    año: 2002,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/94ed57bfd293d326fc19b840f0e25c137ab97a9db7eba886c84098f39c065dab.jpg",
+    trailer: "https://www.youtube.com/watch?v=8upL2xQrPbc"
 },
 {
     id: 191,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y el prisionero de Azkaban",
+    año: 2004,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/5abd8217a74c31735cf5f5532f3614324d5ff9aa13d858b2a00bf875e8e94be6.jpg",
+    trailer: "https://www.youtube.com/watch?v=FqMlockFN9k"
 },
 {
     id: 192,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y el Caliz de Fuego",
+    año: 2005,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/8747ca39c225c5643d40e1be5b78e8844ca779f126273507fec3f0c8b084885b.jpg",
+    trailer: "https://www.youtube.com/watch?v=h1Xm9ynJKDM"
 },
 {
     id: 193,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y la orden del Fénix",
+    año: 2007,
+    imagen: "https://play-lh.googleusercontent.com/C8P107DqiTSF4ZvOhNP2HUi-vfY3xvdbccedbakmFnXENo26tTGvmqjVQSH6AfFeD6Mtx9qoxDLUMyVNMpjl=w240-h480-rw",
+    trailer: "https://www.youtube.com/watch?v=gh8eOzf_fos"
 },
 {
     id: 194,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y el misterio del príncipe mestizo",
+    año: 2009,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/0cdc1db866e5c78488ebbc51286feccefbd020cec01f069109218845ce9452e2.jpg",
+    trailer: "https://www.youtube.com/watch?v=8bgLXigzeso"
 },
 {
     id: 195,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y las reliquias de la muerte Parte 1",
+    año: 2010,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/d41d911189bb4b7ce08ce980e2ea187dbfca3e600d42a860f191345ddcc1efef.jpg",
+    trailer: "https://www.youtube.com/watch?v=5T0xco4iM5E"
 },
 {
     id: 196,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "Harry Potter y las reliquias de la muerte Parte 2",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNDgxOTEyYzktOTg1NC00OWZmLWEzOTAtZTRhZGRkZTQzYWE5XkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=I8KCaGH780w"
 },
 {
     id: 197,
-    nombre: "",
-    año: 2021,
-    imagen: "",
-    trailer: ""
+    nombre: "harta",
+    año: 2025,
+    imagen: "https://assets.cineol.net/g4vk1nhp5butvp323ym60vwp5s6c",
+    trailer: "https://www.youtube.com/watch?v=bIKVgIp1Rns"
 },
 {
     id: 198,
+    nombre: "Herbie a Toda Marcha",
+    año: 2005,
+    imagen: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2GGhtsKSyPkNzTra0PK4SwX3p5rd2ZMcbn-l1312LT9cEEabnNQo_M9_yrTZlltaRL773f6x9BAf0F3DDuHa_uLbNTxN-FKNB-BNMvcHLva7JM_K5301x76k_RsLkuJPRIVw4LhLuRPgp/s1600/Herbie+a+toda+marcha+argentina+cinema.jpg",
+    trailer: "https://www.youtube.com/watch?v=3HT75TrhHTM"
+},
+{
+    id: 199,
+    nombre: "High Ground En La Tierra De Los Justos",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZmI0ZmZmYTktNTcwZS00ZDQyLTliMzgtZDY2ZWI2M2ZmZjhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://www.youtube.com/watch?v=aHXkfwajXf8"
+},
+{
+    id: 200,
+    nombre: "hombres de negro 3",
+    año: 2012,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW33_068Ymb0MDJtOIYbN_IYmSBFheJenn6_JXeAU-cuJ9WAgzMQVkRrk&s=10",
+    trailer: "https://www.youtube.com/watch?v=4j3W7o71vGE"
+},
+{
+    id: 201,
+    nombre: "HOME",
+    año: 2015,
+    imagen: "https://play-lh.googleusercontent.com/EmyYQt6maMSrdKvJMgd29w-4viw9QBw84PGIvmuwxEVqZGKH5k_l2wOqGQTidKh3VL0Z",
+    trailer: "https://www.youtube.com/watch?v=dUPn60ivIow"
+},
+{
+    id: 202,
+    nombre: "Hotel Transilvania",
+    año: 2012,
+    imagen: "https://www.sonypictures.com.mx/sites/mexico/files/2022-04/608871_HotelTransylvania_2012_LSR_2000x3000_UK_1333x2000_thumbnail.jpg",
+    trailer: "https://www.youtube.com/watch?v=qqUQJKVDq9A"
+},
+{
+    id: 203,
+    nombre: "Hotel Transilvania 2",
+    año: 2015,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8a_4cwlp-VqWXKHdbcTU3-C4ZL_zQXJF6D37nOwrlkJ8FQ8vk2ftmQB8&s=10",
+    trailer: "https://www.youtube.com/watch?v=kR0q1pFVC5Y"
+},
+{
+    id: 204,
+    nombre: "Hotel Transilvania 3",
+    año: 2018,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvp36oqCU40_J2mFSjzEJERsU-dEc9iYbqGGw-3q1_aYshP7lll3uqMRM&s=10",
+    trailer: "https://www.youtube.com/watch?v=7RaXr6h7aQM"
+},
+{
+    id: 205,
+    nombre: "Hotel Transilvania 4",
+    año: 2022,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO75SYORqRpk31S_JlSbU0DbQIv4DZsnyhmMwO7kSICnsKip8IjptgNDga&s=10",
+    trailer: "https://www.youtube.com/watch?v=TlfFn-u4nI8"
+},
+{
+    id: 206,
+    nombre: "Huevitos Congelados",
+    año: 2022,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/b57b46250fed1201eb8e0b809a5c257cdc164d2f90ddf6ea473222cfbb9aaf65.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Huevitos+Congelados+2022+&type=phone_number&app_absent=0"
+},
+{
+    id: 207,
+    nombre: "Identidad Desbloqueada",
+    año: 2023,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNzBhN2IzMmYtOGY5MC00ZDkwLTkxYWUtMDkzZmJmZWFiYmRhXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++identidad+desbloqueada+2023+&type=phone_number&app_absent=0"
+},
+{
+    id: 208,
+    nombre: "idiocracia",
+    año: 2006,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRluntXCyIstcGroqTUpPaPQpHGAfrBms1mikT1shXXlYcqkmXZeI7VbZU&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++idiocracia+2006+&type=phone_number&app_absent=0"
+},
+{
+    id: 209,
+    nombre: "Inteligencia Artificail",
+    año: 2001,
+    imagen: "https://m.media-amazon.com/images/M/MV5BODA1YjhhZDctM2Y1ZS00ODkyLWFmMTAtZGY5YWEzNzRjYzA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Inteligencia+Artificial+2001+&type=phone_number&app_absent=0"
+},
+{
+    id: 210,
+    nombre: "IntensaMente",
+    año: 2015,
+    imagen: "https://mx.web.img3.acsta.net/pictures/17/08/07/21/43/466493.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++IntensaMente+&type=phone_number&app_absent=0"
+},
+{
+    id: 211,
+    nombre: "INTENSAMENTE 2",
+    año: 2024,
+    imagen: "https://lumiere-a.akamaihd.net/v1/images/1_intensamente_2_payoff_banner_pre_1_aa3d9114.png",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++INTENSAMENTE02+2024+&type=phone_number&app_absent=0"
+},
+{
+    id: 212,
+    nombre: "Intercambiados",
+    año: 2026,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Intercambiados+2026+&type=phone_number&app_absent=0"
+},
+{
+    id: 213,
+    nombre: "Invencible - Un niño fuera de serie",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BM2QyMGYxYmItN2ExOS00NjA4LWFjNzYtNzVhZGJlMTI2ODRlXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Invencible+Un+niño+fuera+de+serie+2025+&type=phone_number&app_absent=0"
+},
+{
+    id: 214,
+    nombre: "IRON MAN 1",
+    año: 2008,
+    imagen: "https://m.media-amazon.com/images/I/61kVKNYa8cL._AC_UF894,1000_QL80_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++IRON+MAN+1+2008+&type=phone_number&app_absent=0"
+},
+{
+    id: 215,
+    nombre: "IRON MAN 2",
+    año: 2010,
+    imagen: "https://m.media-amazon.com/images/I/91lDYIZAu4L._AC_UF894,1000_QL80_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++IRON+MAN+1+2010+&type=phone_number&app_absent=0"
+},
+{
+    id: 216,
+    nombre: "IRON MAN 3",
+    año: 2013,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++IRON+MAN+3+2013+&type=phone_number&app_absent=0"
+},
+{
+    id: 159,
+    nombre: "IT",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://www.youtube.com/watch?v=-4q5S5BWH8A"
+},
+{
+    id: 217,
+    nombre: "IT Capitulo Dos",
+    año: 2019,
+    imagen: "https://es.web.img3.acsta.net/pictures/19/07/30/09/09/0763744.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++IT+Capitulo+Dos+2019+&type=phone_number&app_absent=0"
+},
+{
+    id: 218,
+    nombre: "Jack reacher never go back",
+    año: 2016,
+    imagen: "https://m.media-amazon.com/images/M/MV5BODQ3ODQ3NDI4NV5BMl5BanBnXkFtZTgwMDY1Mzk5OTE@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Jack+reacher+never+go+back+2016+&type=phone_number&app_absent=0"
+},
+{
+    id: 219,
+    nombre: "Jackpot",
+    año: 2024,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYjVkNzI4NjQtMmU4OC00YmZkLTk5NDAtMjY5ZTEzZTk3NTAzXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Jackpot+2024+&type=phone_number&app_absent=0"
+},
+{
+    id: 220,
+    nombre: "John Wick 4-Baba Yaga",
+    año: 2023,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlvTJ6SAY9xxwg0alDWLqU6h-8A_STKEmlp4kSM8--1oYgh4gxwzdNjc&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++John+Wick+4-Baba+Yaga+2023+&type=phone_number&app_absent=0"
+},
+{
+    id: 221,
+    nombre: "Jovenes y brujas nueva hermandad",
+    año: 2020,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/ad0cb34f16b037bbf6f03a809c60e349fdfe43c2c3deec13d8dee33f3a1b96a5.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Jovenes+y+brujas+nuev+hermandad+2020+&type=phone_number&app_absent=0"
+},
+{
+    id: 222,
+    nombre: "Jungle Cruise",
+    año: 2021,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/5da7c6eacb61e6b052a997caab7e978f3958c2247d37ba1257bc86c34d523a12.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Jungle+Cruise+2021+&type=phone_number&app_absent=0"
+},
+{
+    id: 223,
+    nombre: "JUNTO A LOS DIOSES LOS ULTIMOS 49 DIAS",
+    año: 2013,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/021972ae3166e86e5d4fac8c5fe3c2d26f4244a87b92eb99034fbe95a7e6951c.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++JUNTO+A+LOS+DIOSES+LOS+ULTIMOS+49+DIAS+2013+&type=phone_number&app_absent=0"
+},
+{
+    id: 224,
+    nombre: "Jurassic World Dominio",
+    año: 2022,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Jurassic+World+Dominio+2022+&type=phone_number&app_absent=0"
+},
+{
+    id: 225,
+    nombre: "Jurassic world renacer",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Jurassic+world+rebirth+2025+&type=phone_number&app_absent=0"
+},
+{
+    id: 226,
+    nombre: "Karate Kid Leyenda",
+    año: 2021,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjEe_0UH6AQAW63rS6JeVorPrcelJjWP7e-oLWfBKq0N1lFwZu28yHeHw&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Karate+Kid+Leyenda+2025+&type=phone_number&app_absent=0"
+},
+{
+    id: 227,
+    nombre: "Kick-Ass 1",
+    año: 2010,
+    imagen: "https://m.media-amazon.com/images/M/MV5BYzRmZTY1ZjYtOWQ0NC00NzUyLTg1YjktY2FkMDY1NjY1NmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kick-Ass+1+2010+&type=phone_number&app_absent=0"
+},
+{
+    id: 228,
+    nombre: "Kick-Ass 2",
+    año: 2013,
+    imagen: "https://es.web.img2.acsta.net/pictures/210/148/21014812_20130624133931115.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kick-Ass+2+2013+&type=phone_number&app_absent=0"
+},
+{
+    id: 229,
+    nombre: "Kimi to Nami ni Noretara",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZDM5YTliZDgtZWYwZC00OWM4LWFiOTYtNDc0N2IxZjNiMjUzXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kimi+to+Nami+ni+Noretara+2019+&type=phone_number&app_absent=0"
+},
+{
+    id: 230,
+    nombre: "King's Man El origen",
+    año: 2021,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZDIxOGUyNTMtMzVjZS00ZmVlLWFkN2EtMDVkMjViZmI1YTVkXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++King's+Man+El+origen+2021+&type=phone_number&app_absent=0"
+},
+{
+    id: 231,
+    nombre: "Krampus",
+    año: 2015,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNWNiZDQ1MjMtOGRlZi00N2EzLTk5YTctMTkxZDU4YmE2NmMzXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Krampus+&type=phone_number&app_absent=0"
+},
+{
+    id: 232,
+    nombre: "Kung Fu Panda 1",
+    año: 2008,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkqtg-MoCgzeaQEc0G84Wo3dMm5Jg6C5Rq9gqu5TUv1V5kcHTO3X5K3k&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kung+Fu+Panda+1+2008+&type=phone_number&app_absent=0"
+},
+{
+    id: 233,
+    nombre: "Kung Fu Panda 2",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOWY1YjZkOWItZDI0NS00NzQ5LThiMTUtMzg0YmQ5NjM1MzdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kung+Fu+Panda+2+2011+&type=phone_number&app_absent=0"
+},
+{
+    id: 234,
+    nombre: "Kung Fu Panda 3",
+    año: 2016,
+    imagen: "https://juliomatag.wordpress.com/wp-content/uploads/2016/03/23616360933_d34468ef16_o.jpg?w=718&h=1000&crop=1",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kung+Fu+Panda+3+2016+&type=phone_number&app_absent=0"
+},
+{
+    id: 235,
+    nombre: "Kung Fu Panda 4",
+    año: 2024,
+    imagen: "https://i.pinimg.com/736x/f2/8c/17/f28c17ba6cf88cc64b4d914a7fa304a4.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++Kung+Fu+Panda+4+2024+&type=phone_number&app_absent=0"
+},
+{
+    id: 236,
+    nombre: "la bella y la bestia",
+    año: 2014,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZjBiNGExMTMtZTRiNy00ZjIwLWI4NmYtYjEyZDdmYjU1YjgyXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+bella+y+la+bestia+2014+&type=phone_number&app_absent=0"
+},
+{
+    id: 237,
+    nombre: "la bella y la bestia",
+    año: 2017,
+    imagen: "https://es.web.img3.acsta.net/pictures/17/01/09/09/56/256507.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+bella+y+la+bestia+2017+&type=phone_number&app_absent=0"
+},
+{
+    id: 238,
+    nombre: "La Bruja",
+    año: 2015,
+    imagen: "https://es.web.img3.acsta.net/c_310_420/pictures/16/02/02/12/33/062603.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++LA+BRUJA+2015+&type=phone_number&app_absent=0"
+},
+{
+    id: 239,
+    nombre: "La Cabaña",
+    año: 2017,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZTQ4MGU3ZTMtYzgxOS00NDE2LTgxOGYtOTNlNWJlMTI4ZmNkXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Cabaña+2017+&type=phone_number&app_absent=0"
+},
+{
+    id: 240,
+    nombre: "La Cabra Que Cambio El Juego-Goat",
+    año: 2026,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZmFiZWM5YzgtNzQ0MC00MjBjLWI0ODktYjU4MDJmNGUxZWQ3XkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Cabra+Que+Cambio+El+Juego-Goat+2026+&type=phone_number&app_absent=0"
+},
+{
+    id: 241,
+    nombre: "la colina de las amapolas",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/M/MV5BNzRmYzY2ODktZWM4NS00OTc5LWE5NGEtYWY3NTRmYzM4ZmE5XkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+colina+de+las+amapolas+2011+&type=phone_number&app_absent=0"
+},
+{
+    id: 242,
+    nombre: "la era de hielo 1",
+    año: 2002,
+    imagen: "https://es.web.img2.acsta.net/medias/nmedia/18/68/20/43/19014748.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+era+de+hielo+1+2002+&type=phone_number&app_absent=0"
+},
+{
+    id: 243,
+    nombre: "la era de hielo 2",
+    año: 2005,
+    imagen: "https://es.web.img3.acsta.net/medias/nmedia/18/68/25/85/20062854.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+era+de+hielo+2+2005+&type=phone_number&app_absent=0"
+},
+{
+    id: 244,
+    nombre: "la era de hielo 3",
+    año: 2009,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/7cd16eaf094f33efecf640d7b25d359191e604c0f78ee0deeb5475e0792565d5.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+era+de+hielo+3+2009+&type=phone_number&app_absent=0"
+},
+{
+    id: 245,
+    nombre: "la era de hielo 4",
+    año: 2012,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtSPpaxbMHZE9bXKz1jl1NIP-eYklVAv3kMgtLgnVy36DrU1GicGBbu8&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+era+de+hielo+4+2012+&type=phone_number&app_absent=0"
+},
+{
+    id: 246,
+    nombre: "la era de hielo 5",
+    año: 2016,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMDYyMGJhYmEtYzMzYi00YmJiLWFjMmItODMyMTRhNzg1OGNkXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+era+de+hielo+5+2016+&type=phone_number&app_absent=0"
+},
+{
+    id: 247,
+    nombre: "la era de hielo Las Avanturas De Buck",
+    año: 2022,
+    imagen: "https://pics.filmaffinity.com/Ice_Age_Las_aventuras_de_Buck-954979338-mmed.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+era+de+hielo+Las+Aventuras+De+Buck+2022+&type=phone_number&app_absent=0"
+},
+{
+    id: 248,
+    nombre: "La Familia del Futuro",
+    año: 2007,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnlUhAeBuKLD-ActofNwTCwkxnVPwpXesPymWU_OgPkD6iBoxx-qY-Dew&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Familia+del+Futuro+2007+&type=phone_number&app_absent=0"
+},
+{
+    id: 249,
+    nombre: "La Forja",
+    año: 2024,
+    imagen: "https://pics.filmaffinity.com/La_forja-939217210-large.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Forja+2024+&type=phone_number&app_absent=0"
+},
+{
+    id: 250,
+    nombre: "La Gran Aventura De Winnie The Pooh",
+    año: 1997,
+    imagen: "https://m.media-amazon.com/images/M/MV5BZDhiYWRlZGQtYTY2Ni00ODM2LWJhZTQtMGFkYjg4MzdkNWJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Gran+Aventura+De+Winnie+The+Pooh+1997+&type=phone_number&app_absent=0"
+},
+{
+    id: 251,
+    nombre: "La Hermanastra Fea",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/0fe2dda8b11d299fa313d6be1207f67db2e6c118faefbe880e1cba684a6a0d56.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Hermanastra+Fea+2025+&type=phone_number&app_absent=0"
+},
+{
+    id: 252,
+    nombre: "La hora de la desaparición",
+    año: 2025,
+    imagen: "https://m.media-amazon.com/images/M/MV5BOTA4N2JlNmEtZTRjNi00MDBlLTkzYWQtYjU2ZmEzOGU4M2IwXkEyXkFqcGc@._V1_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+hora+de+la+desaparición+2025+&type=phone_number&app_absent=0"
+},
+{
+    id: 253,
+    nombre: "la invencion de hugo cabre",
+    año: 2011,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5edZjWvgaApi8VtCD8oQJT0f75SovcWwf4VraJmZB1Zq1ytfpPkRSFxA&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++la+invencion+de+hugo+cabre+2011+&type=phone_number&app_absent=0"
+},
+{
+    id: 254,
+    nombre: "La Isla",
+    año: 2005,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/554d222d0892bdb8412e58d2d98f57c7e5aa048ab11faf779ecca76b050e4727.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Isla+2005+&type=phone_number&app_absent=0"
+},
+{
+    id: 255,
+    nombre: "La leyenda de Hei",
+    año: 2019,
+    imagen: "https://m.media-amazon.com/images/S/pv-target-images/e557ffb5826867bda7b8ea99298eaca8280c36152f5622cb5c3d6551e63c1469.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+leyenda+de+Hei+2019+&type=phone_number&app_absent=0"
+},
+{
+    id: 256,
+    nombre: "La Leyenda De La Llorona",
+    año: 2011,
+    imagen: "https://m.media-amazon.com/images/M/MV5BMTYxMjcxNjU2NF5BMl5BanBnXkFtZTcwNDI1OTE5Ng@@._V1_FMjpg_UX1000_.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Leyenda+De+La+Llorona+2011+&type=phone_number&app_absent=0"
+},
+{
+    id: 257,
+    nombre: "La Leyenda De La Nahuala",
+    año: 2021,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2dqNgoeN0t5z27EL8Q14by9EhEGrT65on169dmq2_4ZFbVqSnqVW_n_h&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Leyenda+De+La+Nahuala+2007+&type=phone_number&app_absent=0"
+},
+{
+    id: 258,
+    nombre: "La Leyenda De Los Chaneques",
+    año: 2023,
+    imagen: "https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2023/07/1_LasLeyendasDeLosChaneques_VIX_Portrait_1200x1800.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Leyenda+De+Los+Chaneques+2023+&type=phone_number&app_absent=0"
+},
+{
+    id: 259,
+    nombre: "La leyenda del charro negro",
+    año: 2018,
+    imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhm8M-wysiQPCFTcireTxu7r13HTT1OpK5tpYlKnaGOnn9LQXslFU2LVy&s=10",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+leyenda+del+charro+negro+2018+&type=phone_number&app_absent=0"
+},
+{
+    id: 260,
+    nombre: "La Leyenda del Rey Saloman",
+    año: 2017,
+    imagen: "https://pics.filmaffinity.com/The_Legend_of_King_Solomon-532308768-large.jpg",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Leyenda+del+Rey+Saloman+2017+&type=phone_number&app_absent=0"
+},
+{
+    id: 261,
+    nombre: "La Leyenda Del Tesoro Perdido 2 El Libro De Los Secretos",
+    año: 2007,
+    imagen: "https://play-lh.googleusercontent.com/R-3B-WWr7ulyIQE8lLVLwqpvUASHvbk36tjIORbwN3o5qT-7CympNJzZKn2ZK8p8rRlg6w",
+    trailer: "https://api.whatsapp.com/send/?phone=%2B5212881048888&text=Hola%2C+me+podria+vender+la+pelicula%3A++La+Leyenda+Del+Tesoro+Perdido+2+El+Libro+De+Los+Secretos+2007+&type=phone_number&app_absent=0"
+},
+{
+    id: 262,
     nombre: "",
     año: 2021,
     imagen: "",
     trailer: ""
 },
 {
-    id: 199,
+    id: 263,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 264,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 265,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 266,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 267,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 268,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 269,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 270,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 271,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 272,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 273,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 274,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 275,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 276,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 277,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 278,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 279,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 280,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 281,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 282,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 283,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 284,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 285,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 286,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 287,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 288,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 289,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 290,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 291,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 292,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 293,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 294,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 295,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 296,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 297,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 298,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 299,
+    nombre: "",
+    año: 2021,
+    imagen: "",
+    trailer: ""
+},
+{
+    id: 300,
     nombre: "",
     año: 2021,
     imagen: "",
@@ -1264,7 +1971,7 @@ $(document).ready(function() {
     
                     <button class="verTrailer"
                             data-trailer="${pelicula.trailer || ''}">
-                        🎬 Ver tráiler
+                        🎬 Pedir Pelicula
                     </button>
     
                 </div>
@@ -1297,4 +2004,4 @@ $(document).ready(function() {
     }
 
 });
- });
+});
